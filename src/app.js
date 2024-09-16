@@ -32,5 +32,7 @@ app.use(express.json());
 app.use('/auth', require('./routes/auth_routes'));
 app.use('/test', require('./routes/test_routes'));
 app.use('/api/roles', require('./routes/role_routes'));
+app.use('/api/env', require('./routes/env_routes'));
+app.use('/api/feature', require('./routes/feature_routes'));
 
 module.exports = app;
