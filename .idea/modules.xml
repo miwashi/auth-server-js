@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/auth-server-js.iml" filepath="$PROJECT_DIR$/.idea/auth-server-js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../edu-component-patterns/.idea/edu-component-patterns.iml" filepath="$PROJECT_DIR$/../edu-component-patterns/.idea/edu-component-patterns.iml" />
     </modules>
   </component>
 </project>

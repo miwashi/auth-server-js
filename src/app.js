@@ -1,8 +1,16 @@
 const express = require('express');
+const cors = require('cors');
 const swaggerUi = require('swagger-ui-express');
 const swaggerJsdoc = require('swagger-jsdoc');
 
 const app = express();
+
+const corsOptions = {
+    origin: '*',
+    methods: ['GET', 'POST', 'PUT', 'DELETE'],
+    allowedHeaders: ['Content-Type', 'Authorization']
+};
+app.use(cors(corsOptions));
 
 const swaggerOptions = {
     definition: {
@@ -32,7 +40,7 @@ app.use(express.json());
 app.use('/auth', require('./routes/auth_routes'));
 app.use('/test', require('./routes/test_routes'));
 app.use('/api/roles', require('./routes/role_routes'));
-app.use('/api/env', require('./routes/env_routes'));
-app.use('/api/feature', require('./routes/feature_routes'));
+app.use('/api', require('./routes/env_routes'));
+app.use('/api', require('./routes/feature_routes'));
 
 module.exports = app;
