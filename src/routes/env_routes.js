@@ -4,7 +4,7 @@ const router = express.Router();
 
 /**
  * @swagger
- * /api/env/frontend-env:
+ * /api/frontend-env:
  *   get:
  *     summary: Retrieve environment variables for the frontend
  *     description: Returns a JSON object containing environment variables that are safe to expose to the frontend.

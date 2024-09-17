@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e60d170c-1373-4e0c-be41-a669ed4e5e57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../edu-component-patterns/src/ConfigContextProvider/ConfigContext.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu-component-patterns/src/EnvProvider/EnvProvider.stories.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu-component-patterns/src/EnvProvider/FeatureProvider.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu-component-patterns/src/EnvProvider/FeatureProvider.stories.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu-component-patterns/src/EnvProvider/SomeComponent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../edu-component-patterns/src/UserListStructure/UserListStructure.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/auth-server-js.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/auth-server-js.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/env_domain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/env_domain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../edu-component-patterns/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../edu-component-patterns/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../edu-component-patterns/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../edu-component-patterns/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../edu-component-patterns/src/FlexgridStructure/FlexGridStucture.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/../edu-component-patterns/src/FlexgridStructure/FlexGridStucture.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/env_routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/env_routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../edu-component-patterns" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
@@ -74,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726527307420</updated>
-      <workItem from="1726527308454" duration="7017000" />
+      <workItem from="1726527308454" duration="7378000" />
     </task>
     <servers />
   </component>
